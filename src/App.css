@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+:root {
+  /* margin-top: 20%; */
+  background-image: url("https://images2.alphacoders.com/985/985381.jpg");
+  background-position: 50%;
+}
+
+.inputField {
+  background-color: #fdc701;
+  height: 30px;
+  width: 300px;
+  margin: 10px;
+}
+
+.issueButton {
+  border: 1px solid #fd4848;
+  border-radius: 100%;
+  height: 70px;
+  width: 70px;
+  background-color: #fd4848;
+  color: aliceblue;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.individualIssueCard {
+  border-radius: 20px;
+  background-color: #ff7747;
+  width: 500px;
+  margin: 15px auto;
+  color: #f0e3ff;
+  font-weight: 500;
+}
+
+.cardMains {
+  font-size: 20px;
+  font-weight: 700;
+  color: #f8b400;
+}
