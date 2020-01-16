@@ -2,7 +2,7 @@
   text-align: center;
 }
 :root {
-  /* margin-top: 20%; */
+  margin-top: 15%;
   background-image: url("https://images2.alphacoders.com/985/985381.jpg");
   background-position: 50%;
 }
@@ -26,16 +26,19 @@
 }
 
 .individualIssueCard {
-  border-radius: 20px;
   background-color: #ff7747;
   width: 500px;
   margin: 15px auto;
   color: #f0e3ff;
   font-weight: 500;
+  text-align: left;
+  height: 120px;
+  overflow: hidden;
+  padding: 2px;
 }
 
 .cardMains {
   font-size: 20px;
   font-weight: 700;
-  color: #f8b400;
+  color: #530433;
 }
